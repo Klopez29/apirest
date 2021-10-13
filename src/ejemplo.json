@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "nombre":"Uchiha Sasuke",
+        "serie": "Naruto Shippudden",
+        "rating": "8.8"
+    },
+    {
+        "id":"2",
+        "nombre":"Walter White",
+        "serie": "Breaking Bad",
+        "rating": "9.0"
+    }
+]
